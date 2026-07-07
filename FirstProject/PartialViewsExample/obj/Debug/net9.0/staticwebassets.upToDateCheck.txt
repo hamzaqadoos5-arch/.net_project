@@ -1,0 +1,2 @@
+D:\OneDrive\Desktop\.NetPoject\FirstProject\PartialViewsExample\wwwroot\StyleSheet.css
+wwwroot\StyleSheet.css

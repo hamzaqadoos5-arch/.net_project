@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "M2cD6oEFJ0/qTwFo5qN6+9B25srl3Sy7vFqHPwKe4bc=",
+  "Source": "PartialViewsExample",
+  "BasePath": "_content/PartialViewsExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PartialViewsExample\\wwwroot",
+      "Source": "PartialViewsExample",
+      "ContentRoot": "D:\\OneDrive\\Desktop\\.NetPoject\\FirstProject\\PartialViewsExample\\wwwroot\\",
+      "BasePath": "_content/PartialViewsExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\OneDrive\\Desktop\\.NetPoject\\FirstProject\\PartialViewsExample\\obj\\Debug\\net9.0\\compressed\\xp5m9707ge-nc6qh41eff.gz",
+      "SourceId": "PartialViewsExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\OneDrive\\Desktop\\.NetPoject\\FirstProject\\PartialViewsExample\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/PartialViewsExample",
+      "RelativePath": "StyleSheet#[.{fingerprint=nc6qh41eff}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\OneDrive\\Desktop\\.NetPoject\\FirstProject\\PartialViewsExample\\wwwroot\\StyleSheet.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "la4drrzk63",
+      "Integrity": "AzIVPdnDQWaOyFYcYer+zHudBSRRJ5akisU2PLlKXjY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\OneDrive\\Desktop\\.NetPoject\\FirstProject\\PartialViewsExample\\wwwroot\\StyleSheet.css"
+    },
+    {
+      "Identity": "D:\\OneDrive\\Desktop\\.NetPoject\\FirstProject\\PartialViewsExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "PartialViewsExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\OneDrive\\Desktop\\.NetPoject\\FirstProject\\PartialViewsExample\\wwwroot\\",
+      "BasePath": "_content/PartialViewsExample",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nc6qh41eff",
+      "Integrity": "p3MCA8T77HEIlKps3d/EE/KQWNYJu25Vf4gUmvUwx64=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "D:\\OneDrive\\Desktop\\.NetPoject\\FirstProject\\PartialViewsExample\\obj\\Debug\\net9.0\\compressed\\xp5m9707ge-nc6qh41eff.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000685400960"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1458"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AzIVPdnDQWaOyFYcYer+zHudBSRRJ5akisU2PLlKXjY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jun 2026 13:20:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p3MCA8T77HEIlKps3d/EE/KQWNYJu25Vf4gUmvUwx64=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p3MCA8T77HEIlKps3d/EE/KQWNYJu25Vf4gUmvUwx64="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "D:\\OneDrive\\Desktop\\.NetPoject\\FirstProject\\PartialViewsExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p3MCA8T77HEIlKps3d/EE/KQWNYJu25Vf4gUmvUwx64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jun 2026 13:20:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p3MCA8T77HEIlKps3d/EE/KQWNYJu25Vf4gUmvUwx64="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css.gz",
+      "AssetFile": "D:\\OneDrive\\Desktop\\.NetPoject\\FirstProject\\PartialViewsExample\\obj\\Debug\\net9.0\\compressed\\xp5m9707ge-nc6qh41eff.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AzIVPdnDQWaOyFYcYer+zHudBSRRJ5akisU2PLlKXjY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jun 2026 13:20:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AzIVPdnDQWaOyFYcYer+zHudBSRRJ5akisU2PLlKXjY="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.nc6qh41eff.css",
+      "AssetFile": "D:\\OneDrive\\Desktop\\.NetPoject\\FirstProject\\PartialViewsExample\\obj\\Debug\\net9.0\\compressed\\xp5m9707ge-nc6qh41eff.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000685400960"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1458"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AzIVPdnDQWaOyFYcYer+zHudBSRRJ5akisU2PLlKXjY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jun 2026 13:20:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p3MCA8T77HEIlKps3d/EE/KQWNYJu25Vf4gUmvUwx64=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nc6qh41eff"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p3MCA8T77HEIlKps3d/EE/KQWNYJu25Vf4gUmvUwx64="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.nc6qh41eff.css",
+      "AssetFile": "D:\\OneDrive\\Desktop\\.NetPoject\\FirstProject\\PartialViewsExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5789"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p3MCA8T77HEIlKps3d/EE/KQWNYJu25Vf4gUmvUwx64=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jun 2026 13:20:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nc6qh41eff"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p3MCA8T77HEIlKps3d/EE/KQWNYJu25Vf4gUmvUwx64="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.nc6qh41eff.css.gz",
+      "AssetFile": "D:\\OneDrive\\Desktop\\.NetPoject\\FirstProject\\PartialViewsExample\\obj\\Debug\\net9.0\\compressed\\xp5m9707ge-nc6qh41eff.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1458"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AzIVPdnDQWaOyFYcYer+zHudBSRRJ5akisU2PLlKXjY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 21 Jun 2026 13:20:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nc6qh41eff"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AzIVPdnDQWaOyFYcYer+zHudBSRRJ5akisU2PLlKXjY="
+        }
+      ]
+    }
+  ]
+}

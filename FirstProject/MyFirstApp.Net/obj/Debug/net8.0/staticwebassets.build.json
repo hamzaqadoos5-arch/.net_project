@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xXyKb3FJxzY+6AUatKt7ACGFSKkTrPtPGZ5gZvzAFn4=",
+  "Source": "MyFirstApp.Net",
+  "BasePath": "_content/MyFirstApp.Net",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
