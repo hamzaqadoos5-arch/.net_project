@@ -1,0 +1,12 @@
+D:\OneDrive\Desktop\.NetPoject\Entities\bin\Debug\net9.0\Entities.deps.json
+D:\OneDrive\Desktop\.NetPoject\Entities\bin\Debug\net9.0\Entities.dll
+D:\OneDrive\Desktop\.NetPoject\Entities\bin\Debug\net9.0\Entities.pdb
+D:\OneDrive\Desktop\.NetPoject\Entities\obj\Debug\net9.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Desktop\.NetPoject\Entities\obj\Debug\net9.0\Entities.AssemblyInfoInputs.cache
+D:\OneDrive\Desktop\.NetPoject\Entities\obj\Debug\net9.0\Entities.AssemblyInfo.cs
+D:\OneDrive\Desktop\.NetPoject\Entities\obj\Debug\net9.0\Entities.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\.NetPoject\Entities\obj\Debug\net9.0\Entities.sourcelink.json
+D:\OneDrive\Desktop\.NetPoject\Entities\obj\Debug\net9.0\Entities.dll
+D:\OneDrive\Desktop\.NetPoject\Entities\obj\Debug\net9.0\refint\Entities.dll
+D:\OneDrive\Desktop\.NetPoject\Entities\obj\Debug\net9.0\Entities.pdb
+D:\OneDrive\Desktop\.NetPoject\Entities\obj\Debug\net9.0\ref\Entities.dll
