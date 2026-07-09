@@ -1,44 +1,44 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManage\\ContactsManagerProject\\",
+  "WorkspaceRootPath": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManage\\ContactsManagerProject\\wwwroot\\StyleSheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:wwwroot\\StyleSheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{CEF83B1C-1BBC-4D68-B4C0-E8F91FD1CA2B}|..\\CRUDTests\\CRUDTests.csproj|d:\\onedrive\\desktop\\.netpoject\\crudtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\CountriesServiceTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AFE274C-8F64-47A3-8D1C-59C1DFC57775}|..\\ServiceContracts\\ServiceContracts.csproj|d:\\onedrive\\desktop\\.netpoject\\servicecontracts\\dto\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\CRUDTests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5AFE274C-8F64-47A3-8D1C-59C1DFC57775}|..\\ServiceContracts\\ServiceContracts.csproj|d:\\onedrive\\desktop\\.netpoject\\servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\.NetPoject\\Services\\Services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3224E34A-6C70-49CE-BDE4-0A8706131C9F}|..\\Services\\Services.csproj|d:\\onedrive\\desktop\\.netpoject\\services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\.NetPoject\\Services\\CountriesService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AFE274C-8F64-47A3-8D1C-59C1DFC57775}|..\\ServiceContracts\\ServiceContracts.csproj|d:\\onedrive\\desktop\\.netpoject\\servicecontracts\\dto\\countryaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\CountryResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3224E34A-6C70-49CE-BDE4-0A8706131C9F}|..\\Services\\Services.csproj|d:\\onedrive\\desktop\\.netpoject\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\CountryAddRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53E97CB4-F485-48E5-A3B8-168E14FAD309}|..\\Entities\\Entities.csproj|d:\\onedrive\\desktop\\.netpoject\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\ICountriesService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|d:\\onedrive\\desktop\\.netpoject\\contactsmanagerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\.NetPoject\\Entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|d:\\onedrive\\desktop\\.netpoject\\contactsmanagerproject\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|solutionrelative:wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\MyMath1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEF83B1C-1BBC-4D68-B4C0-E8F91FD1CA2B}|..\\CRUDTests\\CRUDTests.csproj|d:\\onedrive\\desktop\\.netpoject\\crudtests\\crudtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEF83B1C-1BBC-4D68-B4C0-E8F91FD1CA2B}|..\\CRUDTests\\CRUDTests.csproj|d:\\onedrive\\desktop\\.netpoject\\crudtests\\mymath1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManage\\ContactsManagerProject\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEF83B1C-1BBC-4D68-B4C0-E8F91FD1CA2B}|..\\CRUDTests\\CRUDTests.csproj|d:\\onedrive\\desktop\\.netpoject\\crudtests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,151 +48,160 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "StyleSheet.css",
-              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManage\\ContactsManagerProject\\wwwroot\\StyleSheet.css",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\wwwroot\\StyleSheet.css",
               "RelativeDocumentMoniker": "wwwroot\\StyleSheet.css",
-              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManage\\ContactsManagerProject\\wwwroot\\StyleSheet.css",
+              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\wwwroot\\StyleSheet.css",
               "RelativeToolTip": "wwwroot\\StyleSheet.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-07-08T18:05:47.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "CRUDTests.csproj",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\CRUDTests.csproj",
-              "RelativeDocumentMoniker": "..\\..\\CRUDTests\\CRUDTests.csproj",
+              "RelativeDocumentMoniker": "..\\CRUDTests\\CRUDTests.csproj",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\CRUDTests.csproj",
-              "RelativeToolTip": "..\\..\\CRUDTests\\CRUDTests.csproj",
+              "RelativeToolTip": "..\\CRUDTests\\CRUDTests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-07-08T17:34:26.194Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Services.csproj",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\Services\\Services.csproj",
-              "RelativeDocumentMoniker": "..\\..\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "..\\Services\\Services.csproj",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\Services\\Services.csproj",
-              "RelativeToolTip": "..\\..\\Services\\Services.csproj",
+              "RelativeToolTip": "..\\Services\\Services.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-08T17:32:20.83Z"
+              "WhenOpened": "2026-07-08T17:32:20.83Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CountriesService.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\Services\\CountriesService.cs",
-              "RelativeDocumentMoniker": "..\\..\\Services\\CountriesService.cs",
+              "RelativeDocumentMoniker": "..\\Services\\CountriesService.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\Services\\CountriesService.cs",
-              "RelativeToolTip": "..\\..\\Services\\CountriesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\Services\\CountriesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T17:31:40.8Z"
+              "WhenOpened": "2026-07-08T17:31:40.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountriesServiceTest.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\CountriesServiceTest.cs",
+              "RelativeDocumentMoniker": "..\\CRUDTests\\CountriesServiceTest.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\CountriesServiceTest.cs",
+              "RelativeToolTip": "..\\CRUDTests\\CountriesServiceTest.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA3wFoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T17:25:28.514Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CountriesServiceTest.cs",
-              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\CountriesServiceTest.cs",
-              "RelativeDocumentMoniker": "..\\..\\CRUDTests\\CountriesServiceTest.cs",
-              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\CountriesServiceTest.cs",
-              "RelativeToolTip": "..\\..\\CRUDTests\\CountriesServiceTest.cs",
+              "Title": "CountryResponse.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\CountryResponse.cs",
+              "RelativeDocumentMoniker": "..\\ServiceContracts\\DTO\\CountryResponse.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\CountryResponse.cs",
+              "RelativeToolTip": "..\\ServiceContracts\\DTO\\CountryResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T17:25:28.514Z"
+              "WhenOpened": "2026-07-08T16:58:32.147Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CountryResponse.cs",
-              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\CountryResponse.cs",
-              "RelativeDocumentMoniker": "..\\..\\ServiceContracts\\DTO\\CountryResponse.cs",
-              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\CountryResponse.cs",
-              "RelativeToolTip": "..\\..\\ServiceContracts\\DTO\\CountryResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CountryAddRequest.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "RelativeDocumentMoniker": "..\\ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "RelativeToolTip": "..\\ServiceContracts\\DTO\\CountryAddRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T16:58:32.147Z"
+              "WhenOpened": "2026-07-08T16:46:45.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICountriesService.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\ICountriesService.cs",
+              "RelativeDocumentMoniker": "..\\ServiceContracts\\ICountriesService.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\ICountriesService.cs",
+              "RelativeToolTip": "..\\ServiceContracts\\ICountriesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T16:44:17.269Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CountryAddRequest.cs",
-              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\CountryAddRequest.cs",
-              "RelativeDocumentMoniker": "..\\..\\ServiceContracts\\DTO\\CountryAddRequest.cs",
-              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\CountryAddRequest.cs",
-              "RelativeToolTip": "..\\..\\ServiceContracts\\DTO\\CountryAddRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T16:46:45.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ICountriesService.cs",
-              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\ICountriesService.cs",
-              "RelativeDocumentMoniker": "..\\..\\ServiceContracts\\ICountriesService.cs",
-              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\ICountriesService.cs",
-              "RelativeToolTip": "..\\..\\ServiceContracts\\ICountriesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T16:44:17.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "country.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\Entities\\country.cs",
-              "RelativeDocumentMoniker": "..\\..\\Entities\\country.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\country.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\Entities\\country.cs",
-              "RelativeToolTip": "..\\..\\Entities\\country.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAhAAAAAAAAAA==",
+              "RelativeToolTip": "..\\Entities\\country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T16:37:36.642Z"
+              "WhenOpened": "2026-07-08T16:37:36.642Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MyMath1.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\MyMath1.cs",
-              "RelativeDocumentMoniker": "..\\..\\CRUDTests\\MyMath1.cs",
+              "RelativeDocumentMoniker": "..\\CRUDTests\\MyMath1.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\MyMath1.cs",
-              "RelativeToolTip": "..\\..\\CRUDTests\\MyMath1.cs",
+              "RelativeToolTip": "..\\CRUDTests\\MyMath1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T16:22:26.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\..\\CRUDTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\CRUDTests\\UnitTest1.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\UnitTest1.cs",
-              "RelativeToolTip": "..\\..\\CRUDTests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\CRUDTests\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T16:17:22.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManage\\ContactsManagerProject\\Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManage\\ContactsManagerProject\\Program.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T13:49:27.936Z"
+              "WhenOpened": "2026-07-07T13:49:27.936Z",
+              "EditorCaption": ""
             }
           ]
         }
