@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEF83B1C-1BBC-4D68-B4C0-E8F91FD1CA2B}|..\\CRUDTests\\CRUDTests.csproj|d:\\onedrive\\desktop\\.netpoject\\crudtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3224E34A-6C70-49CE-BDE4-0A8706131C9F}|..\\Services\\Services.csproj|d:\\onedrive\\desktop\\.netpoject\\services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AFE274C-8F64-47A3-8D1C-59C1DFC57775}|..\\ServiceContracts\\ServiceContracts.csproj|d:\\onedrive\\desktop\\.netpoject\\servicecontracts\\dto\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEF83B1C-1BBC-4D68-B4C0-E8F91FD1CA2B}|..\\CRUDTests\\CRUDTests.csproj|d:\\onedrive\\desktop\\.netpoject\\crudtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AFE274C-8F64-47A3-8D1C-59C1DFC57775}|..\\ServiceContracts\\ServiceContracts.csproj|d:\\onedrive\\desktop\\.netpoject\\servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3224E34A-6C70-49CE-BDE4-0A8706131C9F}|..\\Services\\Services.csproj|d:\\onedrive\\desktop\\.netpoject\\services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AFE274C-8F64-47A3-8D1C-59C1DFC57775}|..\\ServiceContracts\\ServiceContracts.csproj|d:\\onedrive\\desktop\\.netpoject\\servicecontracts\\dto\\countryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AFE274C-8F64-47A3-8D1C-59C1DFC57775}|..\\ServiceContracts\\ServiceContracts.csproj|d:\\onedrive\\desktop\\.netpoject\\servicecontracts\\dto\\countryaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -48,7 +48,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -60,8 +60,7 @@
               "RelativeToolTip": "wwwroot\\StyleSheet.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-07-08T18:05:47.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T18:05:47.09Z"
             },
             {
               "$type": "Document",
@@ -85,38 +84,36 @@
               "RelativeToolTip": "..\\Services\\Services.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-08T17:32:20.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T17:32:20.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CountriesService.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\Services\\CountriesService.cs",
               "RelativeDocumentMoniker": "..\\Services\\CountriesService.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\Services\\CountriesService.cs",
               "RelativeToolTip": "..\\Services\\CountriesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-08T17:31:40.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CountriesServiceTest.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\CountriesServiceTest.cs",
               "RelativeDocumentMoniker": "..\\CRUDTests\\CountriesServiceTest.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\CountriesServiceTest.cs",
               "RelativeToolTip": "..\\CRUDTests\\CountriesServiceTest.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA3wFoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAUwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T17:25:28.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T17:25:28.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CountryResponse.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\CountryResponse.cs",
               "RelativeDocumentMoniker": "..\\ServiceContracts\\DTO\\CountryResponse.cs",
@@ -124,8 +121,7 @@
               "RelativeToolTip": "..\\ServiceContracts\\DTO\\CountryResponse.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T16:58:32.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T16:58:32.147Z"
             },
             {
               "$type": "Document",
@@ -137,8 +133,7 @@
               "RelativeToolTip": "..\\ServiceContracts\\DTO\\CountryAddRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T16:46:45.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T16:46:45.815Z"
             },
             {
               "$type": "Document",
@@ -148,10 +143,9 @@
               "RelativeDocumentMoniker": "..\\ServiceContracts\\ICountriesService.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\ICountriesService.cs",
               "RelativeToolTip": "..\\ServiceContracts\\ICountriesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T16:44:17.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T16:44:17.269Z"
             },
             {
               "$type": "Document",
@@ -163,8 +157,7 @@
               "RelativeToolTip": "..\\Entities\\country.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-08T16:37:36.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-08T16:37:36.642Z"
             },
             {
               "$type": "Document",
@@ -200,8 +193,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-07T13:49:27.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-07T13:49:27.936Z"
             }
           ]
         }

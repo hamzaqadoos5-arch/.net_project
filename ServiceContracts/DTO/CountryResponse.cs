@@ -8,6 +8,22 @@ namespace ServiceContracts.DTO
     {
         public Guid CountryId { get; set; }
         public string CountryName { get; set; }
+
+        public override bool Equals(object? obj)
+        { 
+            if(obj == null)
+            {  return false; }
+            
+            if (obj.GetType()!= typeof(CountryResponse))
+            { return false; }
+
+            CountryResponse country_to_compare= (CountryResponse)obj;
+
+
+            return CountryId == country_to_compare.CountryId && 
+                CountryName==country_to_compare.CountryName;
+        }
+
     }
     public static class CountryExtensions
     {
