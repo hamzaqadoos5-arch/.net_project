@@ -12,7 +12,7 @@ namespace ServiceContracts.DTO
         public GenderOptions? Gender { get; set; }
         public Guid? CountryID { get; set; }
         public string? Address { get; set; }
-        public bool ReceiveNewsLatters { get; set; }
+        public bool ReceiveNewsLetters { get; set; }
 
 
         public Person ToPerson()
@@ -25,7 +25,7 @@ namespace ServiceContracts.DTO
                 Gender = Gender.ToString(),
                 Address = Address,
                 CountryID = CountryID,
-                ReceiveNewsLatters = ReceiveNewsLatters
+                ReceiveNewsLatters = ReceiveNewsLetters
 
 
             };
