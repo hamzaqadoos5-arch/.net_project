@@ -53,7 +53,7 @@ namespace ServiceContracts.DTO
     {
 
 
-        public static PersonResponse TOPersonResponse(this Person person)
+        public static PersonResponse ToPersonResponse(this Person person)
         {
 
             return new PersonResponse()
