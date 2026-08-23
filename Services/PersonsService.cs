@@ -1,6 +1,8 @@
 ﻿using Entities;
 using ServiceContracts;
 using ServiceContracts.DTO;
+using Services.Helper;
+using System.ComponentModel.DataAnnotations;
 
 
 namespace Services
@@ -29,11 +31,10 @@ namespace Services
             {
                 throw new ArgumentNullException(nameof(personAddRequest));
             }
-            if(string.IsNullOrEmpty(personAddRequest.PersonName))
-            {
-                throw new ArgumentException("PersonName can't be blank");
-            }
-            Person person = personAddRequest.ToPerson();
+            //Model Validation
+            ValidaTionHelper.ModelValidation(personAddRequest);
+
+             Person person = personAddRequest.ToPerson();
 
             person.personID=Guid.NewGuid();
 
@@ -46,6 +47,20 @@ namespace Services
         public List<PersonResponse> GetAllPersons()
         {
             throw new NotImplementedException();
+        }
+
+        public PersonResponse ?GetPersonByPersonID(Guid? personID)
+        {
+           if(personID==null)
+            {
+                return null;
+
+            }
+           Person person= _persons.FirstOrDefault(temp=> temp.personID==personID);
+            if(personID==null)
+                return null;
+            return person.ToPersonResponse();
+
         }
     }
 }
