@@ -13,5 +13,8 @@ namespace ServiceContracts
         List<PersonResponse> GetAllPersons();
         
        PersonResponse? GetPersonByPersonID(Guid ?personID);
+
+        List<PersonResponse> GetFilteredPersons(string searchBy, string? searchString);
+
     }
 }
