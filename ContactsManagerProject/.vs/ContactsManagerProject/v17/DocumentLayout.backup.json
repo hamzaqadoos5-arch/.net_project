@@ -6,31 +6,34 @@
       "AbsoluteMoniker": "D:0:0:{3224E34A-6C70-49CE-BDE4-0A8706131C9F}|..\\Services\\Services.csproj|d:\\onedrive\\desktop\\.netpoject\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3224E34A-6C70-49CE-BDE4-0A8706131C9F}|..\\Services\\Services.csproj|d:\\onedrive\\desktop\\.netpoject\\services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEF83B1C-1BBC-4D68-B4C0-E8F91FD1CA2B}|..\\CRUDTests\\CRUDTests.csproj|d:\\onedrive\\desktop\\.netpoject\\crudtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEF83B1C-1BBC-4D68-B4C0-E8F91FD1CA2B}|..\\CRUDTests\\CRUDTests.csproj|d:\\onedrive\\desktop\\.netpoject\\crudtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AFE274C-8F64-47A3-8D1C-59C1DFC57775}|..\\ServiceContracts\\ServiceContracts.csproj|d:\\onedrive\\desktop\\.netpoject\\servicecontracts\\ipersonsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5AFE274C-8F64-47A3-8D1C-59C1DFC57775}|..\\ServiceContracts\\ServiceContracts.csproj|d:\\onedrive\\desktop\\.netpoject\\servicecontracts\\dto\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AFE274C-8F64-47A3-8D1C-59C1DFC57775}|..\\ServiceContracts\\ServiceContracts.csproj|d:\\onedrive\\desktop\\.netpoject\\servicecontracts\\dto\\personaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3224E34A-6C70-49CE-BDE4-0A8706131C9F}|..\\Services\\Services.csproj|d:\\onedrive\\desktop\\.netpoject\\services\\helper\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AFE274C-8F64-47A3-8D1C-59C1DFC57775}|..\\ServiceContracts\\ServiceContracts.csproj|d:\\onedrive\\desktop\\.netpoject\\servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3224E34A-6C70-49CE-BDE4-0A8706131C9F}|..\\Services\\Services.csproj|d:\\onedrive\\desktop\\.netpoject\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3224E34A-6C70-49CE-BDE4-0A8706131C9F}|..\\Services\\Services.csproj|d:\\onedrive\\desktop\\.netpoject\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CEF83B1C-1BBC-4D68-B4C0-E8F91FD1CA2B}|..\\CRUDTests\\CRUDTests.csproj|d:\\onedrive\\desktop\\.netpoject\\crudtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFE274C-8F64-47A3-8D1C-59C1DFC57775}|..\\ServiceContracts\\ServiceContracts.csproj|d:\\onedrive\\desktop\\.netpoject\\servicecontracts\\ipersonsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFE274C-8F64-47A3-8D1C-59C1DFC57775}|..\\ServiceContracts\\ServiceContracts.csproj|d:\\onedrive\\desktop\\.netpoject\\servicecontracts\\enums\\sortorderoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3224E34A-6C70-49CE-BDE4-0A8706131C9F}|..\\Services\\Services.csproj|d:\\onedrive\\desktop\\.netpoject\\services\\countriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF83B1C-1BBC-4D68-B4C0-E8F91FD1CA2B}|..\\CRUDTests\\CRUDTests.csproj|d:\\onedrive\\desktop\\.netpoject\\crudtests\\countriesservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFE274C-8F64-47A3-8D1C-59C1DFC57775}|..\\ServiceContracts\\ServiceContracts.csproj|d:\\onedrive\\desktop\\.netpoject\\servicecontracts\\dto\\personaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AFE274C-8F64-47A3-8D1C-59C1DFC57775}|..\\ServiceContracts\\ServiceContracts.csproj|d:\\onedrive\\desktop\\.netpoject\\servicecontracts\\icountriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +43,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,7 +51,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "SortOrderOptions.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\Enums\\SortOrderOptions.cs",
+              "RelativeDocumentMoniker": "..\\ServiceContracts\\Enums\\SortOrderOptions.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\Enums\\SortOrderOptions.cs",
+              "RelativeToolTip": "..\\ServiceContracts\\Enums\\SortOrderOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T19:58:04.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "CountriesService.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\Services\\CountriesService.cs",
               "RelativeDocumentMoniker": "..\\Services\\CountriesService.cs",
@@ -56,12 +72,11 @@
               "RelativeToolTip": "..\\Services\\CountriesService.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAAACYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-23T21:41:18.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-23T21:41:18.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ICountriesService.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\ICountriesService.cs",
               "RelativeDocumentMoniker": "..\\ServiceContracts\\ICountriesService.cs",
@@ -73,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "ValidaTionHelper.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\Services\\Helper\\ValidaTionHelper.cs",
               "RelativeDocumentMoniker": "..\\Services\\Helper\\ValidaTionHelper.cs",
@@ -81,11 +96,12 @@
               "RelativeToolTip": "..\\Services\\Helper\\ValidaTionHelper.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T15:56:34.104Z"
+              "WhenOpened": "2026-08-20T15:56:34.104Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Services.csproj",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\Services\\Services.csproj",
               "RelativeDocumentMoniker": "..\\Services\\Services.csproj",
@@ -93,11 +109,12 @@
               "RelativeToolTip": "..\\Services\\Services.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-20T15:54:56.343Z"
+              "WhenOpened": "2026-08-20T15:54:56.343Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "PersonAddRequest.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\PersonAddRequest.cs",
               "RelativeDocumentMoniker": "..\\ServiceContracts\\DTO\\PersonAddRequest.cs",
@@ -105,12 +122,11 @@
               "RelativeToolTip": "..\\ServiceContracts\\DTO\\PersonAddRequest.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAA0wBEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T15:24:01.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-20T15:24:01.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "CountriesServiceTest.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\CountriesServiceTest.cs",
               "RelativeDocumentMoniker": "..\\CRUDTests\\CountriesServiceTest.cs",
@@ -123,26 +139,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "PersonResponse.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\PersonResponse.cs",
               "RelativeDocumentMoniker": "..\\ServiceContracts\\DTO\\PersonResponse.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\PersonResponse.cs",
               "RelativeToolTip": "..\\ServiceContracts\\DTO\\PersonResponse.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAIBCwDQAAAAKAQAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-02T17:05:34.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PersonsServiceTest.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\PersonsServiceTest.cs",
               "RelativeDocumentMoniker": "..\\CRUDTests\\PersonsServiceTest.cs",
-              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\PersonsServiceTest.cs*",
-              "RelativeToolTip": "..\\CRUDTests\\PersonsServiceTest.cs*",
-              "ViewState": "AgIAABIBAAAAAAAAAAAzwLoAAAAJAAAAAAAAAA==",
+              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\CRUDTests\\PersonsServiceTest.cs",
+              "RelativeToolTip": "..\\CRUDTests\\PersonsServiceTest.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAuwCoBAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-24T00:29:04.415Z",
               "EditorCaption": ""
@@ -155,20 +171,20 @@
               "RelativeDocumentMoniker": "..\\Services\\PersonsService.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\Services\\PersonsService.cs*",
               "RelativeToolTip": "..\\Services\\PersonsService.cs*",
-              "ViewState": "AgIAADIAAAAAAAAAAAAtwEEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAIkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-24T00:21:54.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IPersonsService.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\IPersonsService.cs",
               "RelativeDocumentMoniker": "..\\ServiceContracts\\IPersonsService.cs",
-              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\IPersonsService.cs*",
-              "RelativeToolTip": "..\\ServiceContracts\\IPersonsService.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABXAAAAAAAAAA==",
+              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\IPersonsService.cs",
+              "RelativeToolTip": "..\\ServiceContracts\\IPersonsService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-24T00:17:50.011Z",
               "EditorCaption": ""

@@ -18,9 +18,9 @@ namespace ServiceContracts.DTO
         public string? Gender { get; set; }
         public Guid? CountryID { get; set; }
         public string? Country { get; set; }
-        public double?age { get; set; }
+        public double?Age { get; set; }
         public string? Address { get; set; }
-        public bool ReceiveNewsLatters { get; set; }
+        public bool ReceiveNewsLetters { get; set; }
 
         public override bool Equals(object? obj)
         {
@@ -36,7 +36,7 @@ namespace ServiceContracts.DTO
                    Gender==person.Gender &&
                    CountryID==person.CountryID &&
                    Address==person.Address &&
-                   ReceiveNewsLatters==person.ReceiveNewsLatters;
+                   ReceiveNewsLetters==person.ReceiveNewsLetters;
                    
 
         
@@ -50,7 +50,7 @@ namespace ServiceContracts.DTO
         }
         public override string ToString()
         {
-            return $"Person ID: {PersonID}, Person Name: {PersonName}, Email: {Email}, Date of Birth: {DateOfBirth?.ToString("dd MMM yyyy")}, Gender: {Gender}, Country ID: {CountryID}, Country: {Country}, Address: {Address}, Receive News Letters: {ReceiveNewsLatters}";
+            return $"Person ID: {PersonID}, Person Name: {PersonName}, Email: {Email}, Date of Birth: {DateOfBirth?.ToString("dd MMM yyyy")}, Gender: {Gender}, Country ID: {CountryID}, Country: {Country}, Address: {Address}, Receive News Letters: {ReceiveNewsLetters}";
         }
     }
     public static class PersonExtension
@@ -69,8 +69,8 @@ namespace ServiceContracts.DTO
                    Gender = person.Gender ,
                 CountryID = person.CountryID,
                    Address = person.Address ,
-                   ReceiveNewsLatters = person.ReceiveNewsLatters,
-                   age=(person.DateOfBirth!=null)?
+                   ReceiveNewsLetters = person.ReceiveNewsLatters,
+                   Age=(person.DateOfBirth!=null)?
                    Math.Round((DateTime.Now-person.DateOfBirth.Value).TotalDays/365.25):null
                     
 

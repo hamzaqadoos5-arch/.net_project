@@ -6,7 +6,7 @@ namespace ServiceContracts.DTO
 {
     public  class CountryResponse
     {
-        public Guid CountryId { get; set; }
+        public Guid CountryID { get; set; }
         public string CountryName { get; set; }
 
         public override bool Equals(object? obj)
@@ -20,7 +20,7 @@ namespace ServiceContracts.DTO
             CountryResponse country_to_compare= (CountryResponse)obj;
 
 
-            return CountryId == country_to_compare.CountryId && 
+            return CountryID == country_to_compare.CountryID && 
                 CountryName==country_to_compare.CountryName;
         }
 
@@ -31,7 +31,7 @@ namespace ServiceContracts.DTO
         {
             return new CountryResponse()
             {
-                CountryId = country.CountryId,
+                CountryID = country.CountryId,
                 CountryName = country.CountryName,
             };
         }

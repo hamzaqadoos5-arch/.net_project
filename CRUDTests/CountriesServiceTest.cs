@@ -78,7 +78,7 @@ namespace CRUDTests
             List<CountryResponse> countries_from_GetAllCountries = _countriesService.GetAllCountries();
 
             //Assert
-            Assert.True(response.CountryId != Guid.Empty);
+            Assert.True(response.CountryID != Guid.Empty);
             Assert.Contains(response, countries_from_GetAllCountries);
 
 
@@ -153,7 +153,7 @@ namespace CRUDTests
 
 
             //Act
-            CountryResponse? country_response_from_get = _countriesService.GetCountryByCountryID(country_response_from_add.CountryId);
+            CountryResponse? country_response_from_get = _countriesService.GetCountryByCountryID(country_response_from_add.CountryID);
 
             //Assert
             Assert.Equal(country_response_from_add,
