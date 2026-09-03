@@ -37,7 +37,7 @@ namespace Services
 
              Person person = personAddRequest.ToPerson();
 
-            person.personID=Guid.NewGuid();
+            person.PersonID=Guid.NewGuid();
 
             _persons.Add(person);
             //convert the Person object into PersonResponse type
@@ -57,7 +57,7 @@ namespace Services
                 return null;
 
             }
-           Person person= _persons.FirstOrDefault(temp=> temp.personID==personID);
+           Person person= _persons.FirstOrDefault(temp=> temp.PersonID==personID);
             if(personID==null)
                 return null;
             return person.ToPersonResponse();
@@ -158,6 +158,49 @@ namespace Services
             };
 
             return sortedPersons;
+        }
+
+        public PersonResponse UpdatePerson(PersonUpdateRequest? personUpdateRequest)
+        {
+            if (personUpdateRequest == null)
+                throw new ArgumentNullException(nameof(Person));
+
+            //validation
+            ValidaTionHelper.ModelValidation(personUpdateRequest); 
+
+            //get matching person object to update
+            Person? matchingPerson = _persons.FirstOrDefault(temp => temp.PersonID == personUpdateRequest.PersonID);
+            if (matchingPerson == null)
+            {
+                throw new ArgumentException("Given person id doesn't exist");
+            }
+
+            //update all details
+            matchingPerson.PersonName = personUpdateRequest.PersonName;
+            matchingPerson.Email = personUpdateRequest.Email;
+            matchingPerson.DateOfBirth = personUpdateRequest.DateOfBirth;
+            matchingPerson.Gender = personUpdateRequest.Gender.ToString();
+            matchingPerson.CountryID = personUpdateRequest.CountryID;
+            matchingPerson.Address = personUpdateRequest.Address;
+            matchingPerson.ReceiveNewsLetters = personUpdateRequest.ReceiveNewsLetters;
+
+            return matchingPerson.ToPersonResponse();
+        }
+
+        public bool DeletePerson(Guid? personID)
+        {
+            if (personID == null)
+            {
+                throw new ArgumentNullException(nameof(personID));
+            }
+
+            Person? person = _persons.FirstOrDefault(temp => temp.PersonID == personID);
+            if (person == null)
+                return false;
+
+            _persons.RemoveAll(temp => temp.PersonID == personID);
+
+            return true;
         }
     }
    }

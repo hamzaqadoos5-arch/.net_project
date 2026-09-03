@@ -1,4 +1,5 @@
 ﻿using Entities;
+using ServiceContracts.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -52,6 +53,11 @@ namespace ServiceContracts.DTO
         {
             return $"Person ID: {PersonID}, Person Name: {PersonName}, Email: {Email}, Date of Birth: {DateOfBirth?.ToString("dd MMM yyyy")}, Gender: {Gender}, Country ID: {CountryID}, Country: {Country}, Address: {Address}, Receive News Letters: {ReceiveNewsLetters}";
         }
+        public PersonUpdateRequest ToPersonUpdateRequest()
+        {
+            return new PersonUpdateRequest() { PersonID = PersonID, PersonName = PersonName, Email = Email, DateOfBirth = DateOfBirth, Gender = (GenderOptions)Enum.Parse(typeof(GenderOptions), Gender, true), Address = Address, CountryID = CountryID, ReceiveNewsLetters = ReceiveNewsLetters };
+
+        }
     }
     public static class PersonExtension
     {
@@ -62,14 +68,14 @@ namespace ServiceContracts.DTO
 
             return new PersonResponse()
             {
-                PersonID = person.personID ,
+                PersonID = person.PersonID ,
                    PersonName=person.PersonName,
                    Email = person.Email ,
                 DateOfBirth = person.DateOfBirth ,
                    Gender = person.Gender ,
                 CountryID = person.CountryID,
                    Address = person.Address ,
-                   ReceiveNewsLetters = person.ReceiveNewsLatters,
+                   ReceiveNewsLetters = person.ReceiveNewsLetters,
                    Age=(person.DateOfBirth!=null)?
                    Math.Round((DateTime.Now-person.DateOfBirth.Value).TotalDays/365.25):null
                     
