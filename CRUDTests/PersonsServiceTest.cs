@@ -18,8 +18,8 @@ namespace CRUDTests
         public PersonsServiceTest(ITestOutputHelper testOutputHelper)
         {
             _personService = new PersonsService();
-            _countriesService = new CountriesService();
-            _testOutputHelper= testOutputHelper;
+            _countriesService = new CountriesService(false);
+            _testOutputHelper = testOutputHelper;
         }
 
         #region AddPerson
@@ -94,9 +94,16 @@ namespace CRUDTests
             CountryResponse? country_response = _countriesService.AddCountry(country_request);
 
 
-            PersonAddRequest? person_Request = new PersonAddRequest() { PersonName = "Person name...",
-                Email = "person@example.com", Address = "sample address",
-                CountryID = Guid.NewGuid(), Gender = GenderOptions.Male, DateOfBirth = DateTime.Parse("2000-01-01"), ReceiveNewsLetters = true };
+            PersonAddRequest? person_Request = new PersonAddRequest()
+            {
+                PersonName = "Person name...",
+                Email = "person@example.com",
+                Address = "sample address",
+                CountryID = Guid.NewGuid(),
+                Gender = GenderOptions.Male,
+                DateOfBirth = DateTime.Parse("2000-01-01"),
+                ReceiveNewsLetters = true
+            };
             PersonResponse person_respone_from_add = _personService.AddPerson(person_Request);
 
 
@@ -116,14 +123,14 @@ namespace CRUDTests
 
 
 
-            #endregion
+        #endregion
 
 
         #region GetAllPersons
-            [Fact]
-            public void GetAllPersons_EmptyList()
+        [Fact]
+        public void GetAllPersons_EmptyList()
         {
-            List<PersonResponse> persons_from_get=_personService.GetAllPersons();
+            List<PersonResponse> persons_from_get = _personService.GetAllPersons();
 
             Assert.Empty(persons_from_get);
 
@@ -158,7 +165,7 @@ namespace CRUDTests
 
             //print 
             _testOutputHelper.WriteLine("Expected:");
-            foreach(PersonResponse person_response_from_add in person_response_list_from_add)
+            foreach (PersonResponse person_response_from_add in person_response_list_from_add)
             {
                 _testOutputHelper.WriteLine(person_response_from_add.ToString());
             }
@@ -361,7 +368,8 @@ namespace CRUDTests
             PersonUpdateRequest? person_update_request = null;
 
             //Assert
-            Assert.Throws<ArgumentNullException>(() => {
+            Assert.Throws<ArgumentNullException>(() =>
+            {
                 //Act
                 _personService.UpdatePerson(person_update_request);
             });
@@ -376,11 +384,12 @@ namespace CRUDTests
             PersonUpdateRequest? person_update_request = new PersonUpdateRequest() { PersonID = Guid.NewGuid() };
 
             //Assert
-            Assert.Throws<ArgumentException>(() => {
+            Assert.Throws<ArgumentException>(() =>
+            {
                 //Act
                 _personService.UpdatePerson(person_update_request);
             });
-        } 
+        }
 
 
         //When PersonName is null, it should throw ArgumentException
@@ -400,7 +409,8 @@ namespace CRUDTests
 
 
             //Assert
-            Assert.Throws<ArgumentException>(() => {
+            Assert.Throws<ArgumentException>(() =>
+            {
                 //Act
                 _personService.UpdatePerson(person_update_request);
             });

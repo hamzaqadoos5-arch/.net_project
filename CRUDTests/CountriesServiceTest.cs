@@ -14,7 +14,7 @@ namespace CRUDTests
 
         public CountriesServiceTest()
         {
-            _countriesService = new CountriesService();
+            _countriesService = new CountriesService(false);
         }
         #region AddCountry
         //When CountryAddRequest is null, it should throw ArgumentNullException
@@ -135,8 +135,8 @@ namespace CRUDTests
             Guid? countryID = null;
 
             //Act
-           CountryResponse? country_response_from_get_mathod=
-                _countriesService.GetCountryByCountryID(countryID);
+            CountryResponse? country_response_from_get_mathod =
+                 _countriesService.GetCountryByCountryID(countryID);
 
             //Assert
             Assert.Null(country_response_from_get_mathod);
