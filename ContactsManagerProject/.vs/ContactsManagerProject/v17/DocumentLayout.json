@@ -7,27 +7,27 @@
       "RelativeMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|solutionrelative:views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|d:\\onedrive\\desktop\\.netpoject\\contactsmanagerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|d:\\onedrive\\desktop\\.netpoject\\contactsmanagerproject\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|solutionrelative:controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3224E34A-6C70-49CE-BDE4-0A8706131C9F}|..\\Services\\Services.csproj|d:\\onedrive\\desktop\\.netpoject\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|d:\\onedrive\\desktop\\.netpoject\\contactsmanagerproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|d:\\onedrive\\desktop\\.netpoject\\contactsmanagerproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3224E34A-6C70-49CE-BDE4-0A8706131C9F}|..\\Services\\Services.csproj|d:\\onedrive\\desktop\\.netpoject\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|d:\\onedrive\\desktop\\.netpoject\\contactsmanagerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|d:\\onedrive\\desktop\\.netpoject\\contactsmanagerproject\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|solutionrelative:views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|d:\\onedrive\\desktop\\.netpoject\\contactsmanagerproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEF83B1C-1BBC-4D68-B4C0-E8F91FD1CA2B}|..\\CRUDTests\\CRUDTests.csproj|d:\\onedrive\\desktop\\.netpoject\\crudtests\\personsservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -46,21 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "PersonsService.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\Services\\PersonsService.cs",
               "RelativeDocumentMoniker": "..\\Services\\PersonsService.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\Services\\PersonsService.cs",
               "RelativeToolTip": "..\\Services\\PersonsService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAiwGIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-15T12:17:17.536Z",
               "EditorCaption": ""
@@ -109,27 +105,27 @@
               "RelativeDocumentMoniker": "Views\\Persons\\Index.cshtml",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Views\\Persons\\Index.cshtml",
               "RelativeToolTip": "Views\\Persons\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wCIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-05T14:39:15.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PersonsController.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Controllers\\PersonsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PersonsController.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Controllers\\PersonsController.cs",
               "RelativeToolTip": "Controllers\\PersonsController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-05T14:35:47.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Views\\Shared\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ViewImports.cshtml",
@@ -137,12 +133,11 @@
               "RelativeToolTip": "Views\\Shared\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-05T14:03:25.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-05T14:03:25.844Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -155,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -163,12 +158,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-05T13:15:20.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-05T13:15:20.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
