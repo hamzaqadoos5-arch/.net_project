@@ -16,7 +16,7 @@ namespace Services
         public PersonsService(bool initialize = true)
         {
             _persons = new List<Person>();
-            _countriesService = new CountriesService(false);
+            _countriesService = new CountriesService();
 
             if (initialize)
             {
@@ -79,7 +79,7 @@ namespace Services
 
         public List<PersonResponse> GetAllPersons()
         {
-            return _persons.Select(temp => temp.ToPersonResponse()).ToList();
+            return _persons.Select(temp => ConvertPersonToPersonResponse(temp)).ToList();
         }
 
         public PersonResponse? GetPersonByPersonID(Guid? personID)
@@ -92,7 +92,7 @@ namespace Services
             Person person = _persons.FirstOrDefault(temp => temp.PersonID == personID);
             if (personID == null)
                 return null;
-            return person.ToPersonResponse();
+            return ConvertPersonToPersonResponse(person);
 
         }
 
@@ -216,7 +216,7 @@ namespace Services
             matchingPerson.Address = personUpdateRequest.Address;
             matchingPerson.ReceiveNewsLetters = personUpdateRequest.ReceiveNewsLetters;
 
-            return matchingPerson.ToPersonResponse();
+            return ConvertPersonToPersonResponse(matchingPerson);
         }
 
         public bool DeletePerson(Guid? personID)
