@@ -2,21 +2,25 @@
 using ServiceContracts;
 using ServiceContracts.DTO;
 using ServiceContracts.Enums;
+using System.Diagnostics.Eventing.Reader;
 
 namespace CRUDExample.Controllers
 {
+    [Route("[Controller]")]
     public class PersonsController : Controller
     {
         //private fields
         private readonly IPersonsService _personsService;
+        private readonly ICountriesService _countriesService;
 
         //constructor
-        public PersonsController(IPersonsService personsService)
+        public PersonsController(IPersonsService personsService, ICountriesService countriesService)
         {
             _personsService = personsService;
+            _countriesService = countriesService;
         }
 
-        [Route("persons/index")]
+        [Route("[action]")]
         [Route("/")]
         public IActionResult Index(string searchBy, string? searchString,
         string sortBy = nameof(PersonResponse.PersonName), SortOrderOptions sortOrder = SortOrderOptions.ASC)
@@ -44,5 +48,43 @@ namespace CRUDExample.Controllers
             ViewBag.CurrentSortOrder = sortOrder.ToString();
             return View(sortedPersons); //Views/Persons/Index.cshtml
         }
+
+        //when the user click on "Create Person"
+        [Route("[action]")]
+        [HttpGet]
+        public IActionResult Create()
+        {
+            List<CountryResponse> countries = _countriesService.GetAllCountries();
+            ViewBag.Countries = countries;
+            return View();
+        }
+
+
+        [HttpPost]
+        [Route("[action]")]
+        public IActionResult Create(PersonAddRequest personAddRequest)
+        {
+
+            List<PersonResponse> allPersons = _personsService.GetAllPersons();
+            if (allPersons.Any(temp => temp.Email == personAddRequest.Email))
+            {
+
+                ModelState.AddModelError("Email", "This Email is already registered. Please use another one.");
+            }
+
+
+            if (!ModelState.IsValid)
+            {
+                List<CountryResponse> countries = _countriesService.GetAllCountries();
+                ViewBag.Countries = countries;
+                ViewBag.Errors = ModelState.Values.SelectMany(v => v.Errors).Select(e => e.ErrorMessage).ToList();
+                return View();
+            }
+
+
+            PersonResponse personResponse = _personsService.AddPerson(personAddRequest);
+            return RedirectToAction("Index", "Persons");
+        }
+
     }
 }

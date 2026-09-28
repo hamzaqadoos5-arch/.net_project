@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AKkwAUripTz8kRTfuXBcSAOJDEFWQRXid24p9wFu+Fk=",
+  "Hash": "RNAJndvHoxR3vtctJe/uA1V6xUA9lqxVtJNyFZnoBzk=",
   "Source": "ContactsManagerProject",
   "BasePath": "_content/ContactsManagerProject",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\obj\\Debug\\net9.0\\compressed\\nvlb1xy7jc-zkqq3swc4m.gz",
+      "Identity": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\obj\\Debug\\net9.0\\compressed\\nvlb1xy7jc-dekmbplmz1.gz",
       "SourceId": "ContactsManagerProject",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ContactsManagerProject",
-      "RelativePath": "StyleSheet#[.{fingerprint=zkqq3swc4m}]?.css.gz",
+      "RelativePath": "StyleSheet#[.{fingerprint=dekmbplmz1}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,8 +31,8 @@
       "RelatedAsset": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\wwwroot\\StyleSheet.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wwoxlb05sy",
-      "Integrity": "oIIdJaVf/aytQGihnpwpBiwD7zVTLmUCr77gHkgsnMc=",
+      "Fingerprint": "bctttglv3t",
+      "Integrity": "y8YDW6qIJblKLif7+MKeATWLrxH+OSJ/MqNbIfE/8u0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\wwwroot\\StyleSheet.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "zkqq3swc4m",
-      "Integrity": "7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ=",
+      "Fingerprint": "dekmbplmz1",
+      "Integrity": "OzCvpUGw3SSizb0/VzHNk0MWNoL/j31p4nWMUJkUcxg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\StyleSheet.css"
@@ -62,12 +62,12 @@
   "Endpoints": [
     {
       "Route": "StyleSheet.css",
-      "AssetFile": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\obj\\Debug\\net9.0\\compressed\\nvlb1xy7jc-zkqq3swc4m.gz",
+      "AssetFile": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\obj\\Debug\\net9.0\\compressed\\nvlb1xy7jc-dekmbplmz1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000692041522"
+          "Quality": "0.000682128240"
         }
       ],
       "ResponseHeaders": [
@@ -77,15 +77,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1444"
+          "Value": "1465"
         },
         {
           "Name": "ETag",
-          "Value": "\"oIIdJaVf/aytQGihnpwpBiwD7zVTLmUCr77gHkgsnMc=\""
+          "Value": "\"y8YDW6qIJblKLif7+MKeATWLrxH+OSJ/MqNbIfE/8u0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Sep 2026 13:14:41 GMT"
+          "Value": "Mon, 28 Sep 2026 10:09:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -105,13 +105,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ=\""
+          "Value": "W/\"OzCvpUGw3SSizb0/VzHNk0MWNoL/j31p4nWMUJkUcxg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ="
+          "Value": "sha256-OzCvpUGw3SSizb0/VzHNk0MWNoL/j31p4nWMUJkUcxg="
         }
       ]
     },
@@ -126,7 +126,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5421"
+          "Value": "5524"
         },
         {
           "Name": "Content-Type",
@@ -134,11 +134,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ=\""
+          "Value": "\"OzCvpUGw3SSizb0/VzHNk0MWNoL/j31p4nWMUJkUcxg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Sep 2026 13:14:41 GMT"
+          "Value": "Mon, 28 Sep 2026 10:09:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -148,13 +148,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ="
+          "Value": "sha256-OzCvpUGw3SSizb0/VzHNk0MWNoL/j31p4nWMUJkUcxg="
         }
       ]
     },
     {
       "Route": "StyleSheet.css.gz",
-      "AssetFile": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\obj\\Debug\\net9.0\\compressed\\nvlb1xy7jc-zkqq3swc4m.gz",
+      "AssetFile": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\obj\\Debug\\net9.0\\compressed\\nvlb1xy7jc-dekmbplmz1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -163,7 +163,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1444"
+          "Value": "1465"
         },
         {
           "Name": "Content-Type",
@@ -171,11 +171,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oIIdJaVf/aytQGihnpwpBiwD7zVTLmUCr77gHkgsnMc=\""
+          "Value": "\"y8YDW6qIJblKLif7+MKeATWLrxH+OSJ/MqNbIfE/8u0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Sep 2026 13:14:41 GMT"
+          "Value": "Mon, 28 Sep 2026 10:09:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -193,18 +193,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-oIIdJaVf/aytQGihnpwpBiwD7zVTLmUCr77gHkgsnMc="
+          "Value": "sha256-y8YDW6qIJblKLif7+MKeATWLrxH+OSJ/MqNbIfE/8u0="
         }
       ]
     },
     {
-      "Route": "StyleSheet.zkqq3swc4m.css",
-      "AssetFile": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\obj\\Debug\\net9.0\\compressed\\nvlb1xy7jc-zkqq3swc4m.gz",
+      "Route": "StyleSheet.dekmbplmz1.css",
+      "AssetFile": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\obj\\Debug\\net9.0\\compressed\\nvlb1xy7jc-dekmbplmz1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000692041522"
+          "Quality": "0.000682128240"
         }
       ],
       "ResponseHeaders": [
@@ -214,15 +214,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1444"
+          "Value": "1465"
         },
         {
           "Name": "ETag",
-          "Value": "\"oIIdJaVf/aytQGihnpwpBiwD7zVTLmUCr77gHkgsnMc=\""
+          "Value": "\"y8YDW6qIJblKLif7+MKeATWLrxH+OSJ/MqNbIfE/8u0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Sep 2026 13:14:41 GMT"
+          "Value": "Mon, 28 Sep 2026 10:09:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -242,13 +242,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ=\""
+          "Value": "W/\"OzCvpUGw3SSizb0/VzHNk0MWNoL/j31p4nWMUJkUcxg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zkqq3swc4m"
+          "Value": "dekmbplmz1"
         },
         {
           "Name": "label",
@@ -256,12 +256,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ="
+          "Value": "sha256-OzCvpUGw3SSizb0/VzHNk0MWNoL/j31p4nWMUJkUcxg="
         }
       ]
     },
     {
-      "Route": "StyleSheet.zkqq3swc4m.css",
+      "Route": "StyleSheet.dekmbplmz1.css",
       "AssetFile": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -271,7 +271,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5421"
+          "Value": "5524"
         },
         {
           "Name": "Content-Type",
@@ -279,11 +279,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ=\""
+          "Value": "\"OzCvpUGw3SSizb0/VzHNk0MWNoL/j31p4nWMUJkUcxg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Sep 2026 13:14:41 GMT"
+          "Value": "Mon, 28 Sep 2026 10:09:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -293,7 +293,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zkqq3swc4m"
+          "Value": "dekmbplmz1"
         },
         {
           "Name": "label",
@@ -301,13 +301,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7SOd6fXfOqeTryB7Lc7rJlp8FilvVl6p6QuJD1Vt2AQ="
+          "Value": "sha256-OzCvpUGw3SSizb0/VzHNk0MWNoL/j31p4nWMUJkUcxg="
         }
       ]
     },
     {
-      "Route": "StyleSheet.zkqq3swc4m.css.gz",
-      "AssetFile": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\obj\\Debug\\net9.0\\compressed\\nvlb1xy7jc-zkqq3swc4m.gz",
+      "Route": "StyleSheet.dekmbplmz1.css.gz",
+      "AssetFile": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\obj\\Debug\\net9.0\\compressed\\nvlb1xy7jc-dekmbplmz1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -316,7 +316,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1444"
+          "Value": "1465"
         },
         {
           "Name": "Content-Type",
@@ -324,11 +324,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oIIdJaVf/aytQGihnpwpBiwD7zVTLmUCr77gHkgsnMc=\""
+          "Value": "\"y8YDW6qIJblKLif7+MKeATWLrxH+OSJ/MqNbIfE/8u0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 05 Sep 2026 13:14:41 GMT"
+          "Value": "Mon, 28 Sep 2026 10:09:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -346,7 +346,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "zkqq3swc4m"
+          "Value": "dekmbplmz1"
         },
         {
           "Name": "label",
@@ -354,7 +354,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-oIIdJaVf/aytQGihnpwpBiwD7zVTLmUCr77gHkgsnMc="
+          "Value": "sha256-y8YDW6qIJblKLif7+MKeATWLrxH+OSJ/MqNbIfE/8u0="
         }
       ]
     }
