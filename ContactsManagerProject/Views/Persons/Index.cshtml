@@ -1,14 +1,13 @@
-﻿@using ServiceContracts.DTO
-@using ServiceContracts.Enums
-@model IEnumerable<PersonResponse>
+﻿@model IEnumerable<PersonResponse>
 
 @{
  ViewBag.Title = "Persons";
 }
-<form action="~/persons/index" method="get">
+<form asp-controller="persons" asp-action="index" method="get">
  <h1>Persons</h1>
 
-    <a href="~/persons/create">Create Person</a>
+    <a asp-controller ="persons" asp-action="create">
+        Create Person</a>
  <div class="box flex">
   <div class="flex-1">
    <select class="form-input" name="searchBy">
@@ -34,7 +33,7 @@
 
   <div class="flex-1">
    <button class="button button-blue-back">Search</button>
-   <a href="~/persons/index" class="link-hover">Clear all</a>
+    <a asp-controller="persons" asp-action="index" class="link-hover">Clear all</a>
   </div>
  </div>
 
@@ -95,7 +94,7 @@
                 }
                       )
 
-             
+             <td>Option</td>
     
    
    </tr>
@@ -112,6 +111,9 @@
      <td style="width:10%">@person.Country</td>
      <td style="width:10%">@person.Address</td>
      <td style="width:20%">@person.ReceiveNewsLetters</td>
+     <td style="width:20%">
+<a asp-controller="Persons" asp-action="Edit" asp-route-personID="@person.PersonID">Edit</a>
+     </td>
     </tr>
    }
    <tr></tr>

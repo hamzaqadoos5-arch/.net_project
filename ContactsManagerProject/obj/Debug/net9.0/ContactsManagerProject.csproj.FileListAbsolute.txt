@@ -39,4 +39,7 @@ D:\OneDrive\Desktop\.NetPoject\ContactsManagerProject\obj\Debug\net9.0\ContactsM
 D:\OneDrive\Desktop\.NetPoject\ContactsManagerProject\obj\Debug\net9.0\ContactsManagerProject.RazorAssemblyInfo.cs
 D:\OneDrive\Desktop\.NetPoject\ContactsManagerProject\obj\Debug\net9.0\Contacts.29FE9B1E.Up2Date
 D:\OneDrive\Desktop\.NetPoject\ContactsManagerProject\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
-D:\OneDrive\Desktop\.NetPoject\ContactsManagerProject\obj\Debug\net9.0\compressed\nvlb1xy7jc-dekmbplmz1.gz
+D:\OneDrive\Desktop\.NetPoject\ContactsManagerProject\obj\Debug\net9.0\compressed\r7k5rlvno6-dd6z7egasc.gz
+D:\OneDrive\Desktop\.NetPoject\ContactsManagerProject\obj\Debug\net9.0\compressed\p7oiszem89-x0l543ewpl.gz
+D:\OneDrive\Desktop\.NetPoject\ContactsManagerProject\obj\Debug\net9.0\compressed\c53yyk5kw1-d171zkdrjx.gz
+D:\OneDrive\Desktop\.NetPoject\ContactsManagerProject\obj\Debug\net9.0\compressed\nvlb1xy7jc-7mw956yv98.gz

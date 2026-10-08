@@ -1,4 +1,6 @@
 ﻿@using ServiceContracts.DTO
+@using ServiceContracts.Enums
+
 @model PersonAddRequest
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 
@@ -6,10 +8,10 @@
     ViewBag.title = "Create Person";
 }
 
-<a href="~/persons/index" class="link-hover">Back to Persons list</a>
+<a asp-controller="persons" asp-action="index" class="link-hover">Back to Persons list</a>
 <h2>Create Person</h2>
-<div class="w-50">
-    <form action="~/persons/create" method="post">
+<div class="center-box">
+    <form asp-controller="persons" asp-action="create" method="post">
 
         @*PersonName*@
         <div class="form-field flex">
@@ -50,14 +52,16 @@
                 <label class="form-label pt">Gender</label>
             </div>
             <div class="flex-1">
-                <input type="radio" asp-for="Gender" id="Male" value="Male" />
-                <label for="Male">Male</label>
 
-                <input type="radio" asp-for="Gender" id="Female" value="Female" class="ml" />
-                <label for="Female">Female</label>
+                @{
+                   string[] genders =(string[])Enum.GetNames(typeof(GenderOptions));
+                }
+                @foreach (string gender in genders)
+                {
+                    <input type="radio" asp-for="Gender"  value="@gender" />
+                    <label for="@gender">@gender</label>
 
-                <input type="radio" asp-for="Gender" id="Other" value="Other" class="ml" />
-                <label for="Other">Other</label>
+                }
 
                 <br />
                 <span asp-validation-for="Gender" class="text-red"></span>
@@ -70,15 +74,9 @@
                 <label asp-for="CountryID" class="form-label pt">Country</label>
             </div>
             <div class="flex-1">
-                <select asp-for="CountryID" class="form-input">
+                <select asp-for="CountryID" class="form-input" asp-items="@ViewBag.Countries">
                     <option value="">Please Select</option>
-                    @if (ViewBag.Countries != null)
-                    {
-                        foreach (CountryResponse country in ViewBag.Countries)
-                        {
-                            <option value="@country.CountryID">@country.CountryName</option>
-                        }
-                    }
+                 
                 </select>
                 <span asp-validation-for="CountryID" class="text-red"></span>
             </div>
@@ -128,6 +126,10 @@
 </div>
 
 @*سكريبتات التحقق الفوري (Client-Side Validation)*@ 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+@section scripts {
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" asp-fallback-test="window.jQuery" asp-fallback-src="~/jquery.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.4/jquery.validate.min.js" asp-fallback-test="window.jQuery.validator" asp-fallback-src="~/jquery.validate.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js" asp-fallback-test="window.jQuery.validator.unobstrusive" asp-fallback-src="~/jquery.validate.unobtrusive.min.js"></script>
+}}

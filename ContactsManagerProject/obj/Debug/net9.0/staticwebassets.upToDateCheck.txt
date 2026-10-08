@@ -1,2 +1,9 @@
+D:\OneDrive\Desktop\.NetPoject\ContactsManagerProject\wwwroot\jquery.validate.unobtrusive.min.js
 D:\OneDrive\Desktop\.NetPoject\ContactsManagerProject\wwwroot\StyleSheet.css
+D:\OneDrive\Desktop\.NetPoject\ContactsManagerProject\wwwroot\jquery.validate.min.js
+D:\OneDrive\Desktop\.NetPoject\ContactsManagerProject\wwwroot\jquery.min.js
+wwwroot\jquery.min.js
+wwwroot\jquery.validate.min.js
+wwwroot\jquery.validate.unobtrusive.min.js
+wwwroot\logo.png
 wwwroot\StyleSheet.css

@@ -14,6 +14,7 @@ namespace ServiceContracts.DTO
         [EmailAddress(ErrorMessage = "Email value shuld be a valid email")]
         public string? Email { get; set; }
 
+        [Required(ErrorMessage = "Date can't be blank")]
         [DateOfBirthValidator(MinimumAge = 18, OldestYear = 1900, ErrorMessage = "You must be at least 18 years old to register.")]
         public DateTime? DateOfBirth { get; set; }
 

@@ -5,6 +5,22 @@
       "PackagePath": "staticwebassets\\StyleSheet.css"
     },
     {
+      "Id": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\wwwroot\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\wwwroot\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\wwwroot\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ContactsManagerProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
