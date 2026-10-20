@@ -3,15 +3,32 @@
   "WorkspaceRootPath": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|d:\\onedrive\\desktop\\.netpoject\\contactsmanagerproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E97CB4-F485-48E5-A3B8-168E14FAD309}|..\\Entities\\Entities.csproj|d:\\onedrive\\desktop\\.netpoject\\entities\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|d:\\onedrive\\desktop\\.netpoject\\contactsmanagerproject\\contactsmanagerproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|solutionrelative:contactsmanagerproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E97CB4-F485-48E5-A3B8-168E14FAD309}|..\\Entities\\Entities.csproj|d:\\onedrive\\desktop\\.netpoject\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3224E34A-6C70-49CE-BDE4-0A8706131C9F}|..\\Services\\Services.csproj|d:\\onedrive\\desktop\\.netpoject\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E97CB4-F485-48E5-A3B8-168E14FAD309}|..\\Entities\\Entities.csproj|d:\\onedrive\\desktop\\.netpoject\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|d:\\onedrive\\desktop\\.netpoject\\contactsmanagerproject\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|solutionrelative:controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|d:\\onedrive\\desktop\\.netpoject\\contactsmanagerproject\\views\\persons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|solutionrelative:views\\persons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3224E34A-6C70-49CE-BDE4-0A8706131C9F}|..\\Services\\Services.csproj|d:\\onedrive\\desktop\\.netpoject\\services\\personsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9402A800-D41E-4069-815C-C4115DBD37F2}|ContactsManagerProject.csproj|d:\\onedrive\\desktop\\.netpoject\\contactsmanagerproject\\views\\persons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -60,16 +77,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactsManagerProject",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\ContactsManagerProject.csproj",
+              "RelativeDocumentMoniker": "ContactsManagerProject.csproj",
+              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\ContactsManagerProject.csproj*",
+              "RelativeToolTip": "ContactsManagerProject.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-20T18:14:39.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T18:11:43.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PersonsDbContext.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\Entities\\PersonsDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\PersonsDbContext.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\Entities\\PersonsDbContext.cs*",
+              "RelativeToolTip": "..\\Entities\\PersonsDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T06:19:40.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Person.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\Entities\\Person.cs",
+              "RelativeToolTip": "..\\Entities\\Person.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T06:17:23.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "country.cs",
+              "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\Entities\\country.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\country.cs",
+              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\Entities\\country.cs",
+              "RelativeToolTip": "..\\Entities\\country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T06:16:54.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Views\\Persons\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Persons\\Delete.cshtml",
-              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Views\\Persons\\Delete.cshtml*",
-              "RelativeToolTip": "Views\\Persons\\Delete.cshtml*",
+              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Views\\Persons\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Persons\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-11T15:29:44.373Z",
@@ -77,20 +159,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "CountryAddRequest.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\CountryAddRequest.cs",
               "RelativeDocumentMoniker": "..\\ServiceContracts\\DTO\\CountryAddRequest.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\CountryAddRequest.cs",
               "RelativeToolTip": "..\\ServiceContracts\\DTO\\CountryAddRequest.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAMBiwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-11T15:15:27.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Views\\Persons\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Persons\\Edit.cshtml",
@@ -103,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "StyleSheet.css",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\wwwroot\\StyleSheet.css",
               "RelativeDocumentMoniker": "wwwroot\\StyleSheet.css",
@@ -111,24 +193,25 @@
               "RelativeToolTip": "wwwroot\\StyleSheet.css",
               "ViewState": "AgIAAFoBAAAAAAAAAAA0wGABAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-10-07T18:35:39.362Z"
+              "WhenOpened": "2026-10-07T18:35:39.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "PersonResponse.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\PersonResponse.cs",
               "RelativeDocumentMoniker": "..\\ServiceContracts\\DTO\\PersonResponse.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\PersonResponse.cs",
               "RelativeToolTip": "..\\ServiceContracts\\DTO\\PersonResponse.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAswEUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwEUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T08:48:10.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "CountriesService.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\Services\\CountriesService.cs",
               "RelativeDocumentMoniker": "..\\Services\\CountriesService.cs",
@@ -141,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -149,11 +232,12 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-02T14:55:23.093Z"
+              "WhenOpened": "2026-10-02T14:55:23.093Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "DateOfBirthValidatorAttribute.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\Enums\\DateOfBirthValidatorAttribute.cs",
               "RelativeDocumentMoniker": "..\\ServiceContracts\\Enums\\DateOfBirthValidatorAttribute.cs",
@@ -161,23 +245,25 @@
               "RelativeToolTip": "..\\ServiceContracts\\Enums\\DateOfBirthValidatorAttribute.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T11:59:02.529Z"
+              "WhenOpened": "2026-09-28T11:59:02.529Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "PersonAddRequest.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\PersonAddRequest.cs",
               "RelativeDocumentMoniker": "..\\ServiceContracts\\DTO\\PersonAddRequest.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ServiceContracts\\DTO\\PersonAddRequest.cs",
               "RelativeToolTip": "..\\ServiceContracts\\DTO\\PersonAddRequest.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAMBiwBAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T11:43:21.665Z"
+              "WhenOpened": "2026-09-28T11:43:21.665Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Views\\Persons\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Persons\\Create.cshtml",
@@ -185,42 +271,43 @@
               "RelativeToolTip": "Views\\Persons\\Create.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAIA1wDoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-28T09:13:02.007Z"
+              "WhenOpened": "2026-09-28T09:13:02.007Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PersonsService.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\Services\\PersonsService.cs",
               "RelativeDocumentMoniker": "..\\Services\\PersonsService.cs",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\Services\\PersonsService.cs",
               "RelativeToolTip": "..\\Services\\PersonsService.cs",
-              "ViewState": "AgIAAJEAAAAAAAAAAAAawOQAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAOQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-15T12:17:17.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Views\\Persons\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Persons\\Index.cshtml",
               "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Views\\Persons\\Index.cshtml",
               "RelativeToolTip": "Views\\Persons\\Index.cshtml",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAAAHMAAAB0AAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAMBiwHMAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-05T14:39:15.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "PersonsController.cs",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Controllers\\PersonsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PersonsController.cs",
-              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Controllers\\PersonsController.cs*",
-              "RelativeToolTip": "Controllers\\PersonsController.cs*",
+              "ToolTip": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "Controllers\\PersonsController.cs",
               "ViewState": "AgIAAHMAAAAAAAAAAAAIwIEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-05T14:35:47.583Z",
@@ -228,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\OneDrive\\Desktop\\.NetPoject\\ContactsManagerProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -236,7 +323,8 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-05T12:13:57.607Z"
+              "WhenOpened": "2026-09-05T12:13:57.607Z",
+              "EditorCaption": ""
             }
           ]
         }
