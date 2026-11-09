@@ -11,3 +11,5 @@ D:\OneDrive\Desktop\.NetPoject\Entities\obj\Debug\net9.0\refint\Entities.dll
 D:\OneDrive\Desktop\.NetPoject\Entities\obj\Debug\net9.0\Entities.pdb
 D:\OneDrive\Desktop\.NetPoject\Entities\obj\Debug\net9.0\ref\Entities.dll
 D:\OneDrive\Desktop\.NetPoject\Entities\obj\Debug\net9.0\Entities.csproj.AssemblyReference.cache
+D:\OneDrive\Desktop\.NetPoject\Entities\bin\Debug\net9.0\Entities.runtimeconfig.json
+D:\OneDrive\Desktop\.NetPoject\Entities\obj\Debug\net9.0\Entities.genruntimeconfig.cache

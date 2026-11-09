@@ -31,7 +31,7 @@ namespace ServiceContracts.DTO
         {
             return new CountryResponse()
             {
-                CountryID = country.CountryId,
+                CountryID = country.CountryID,
                 CountryName = country.CountryName,
             };
         }
